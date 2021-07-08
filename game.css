@@ -1,0 +1,54 @@
+h1{
+    margin-top: 200px;
+    color: darkgreen;
+    font-size: 50px;
+}
+body
+{
+	background:url(bg1.jpg);
+	background-size: cover;
+}
+
+.login_div1 , .login_div2
+	{
+		background:url(red-blue-color-gradient-style-artwork_25920-1868.jpg);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+	
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	width:60%;
+    color: black;
+
+}
+#N1,#N2
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h3{
+    color: red;
+    font-size: 20px;
+}
+#L{
+    color: greenyellow;
+    font-size: 20px;
+}
